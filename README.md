@@ -31,11 +31,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,scikit-learn,pandas,numpy" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ammar876ahmed">
+  <a href="https://github.com/ammarelbordeny">
     <img src="https://img.shields.io/badge/Back%20to%20Profile-Click%20Here-success?style=for-the-badge&logo=github" />
   </a>
 </p>
