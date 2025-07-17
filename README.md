@@ -29,6 +29,11 @@
 📊 Regression model to estimate housing Rent based on area, location, and other features.
 
 ---
+### 🔢 MNIST Neural Network  
+[![Repo](https://img.shields.io/badge/View%20Repo-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/ammarelbordeny/Hand-Written-Digits-Classification-Mnist-)  
+🧠 Trained a neural network using TensorFlow & Keras to classify handwritten digits from the MNIST dataset with high accuracy. Included model training, evaluation, and prediction visualization.
+
+---
 
 <p align="center">
   <a href="https://github.com/ammarelbordeny">
