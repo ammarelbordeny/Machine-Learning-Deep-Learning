@@ -13,20 +13,20 @@
 ---
 
 ### 🍄 Mushroom Classification  
-[![Repo](https://img.shields.io/badge/View%20Repo-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/ammar876ahmed/mushroom-classification)  
+[![Repo](https://img.shields.io/badge/View%20Repo-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/ammarelbordeny/Mushroom-Classification)  
 🔬 Built with Decision Trees, Random Forest, and KNN to classify mushrooms as edible or poisonous (96% accuracy).
 
 ---
 
-### 💸 Bitcoin Price Forecasting  
-[![Repo](https://img.shields.io/badge/View%20Repo-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/ammar876ahmed/bitcoin-forecasting)  
-📈 Time-series forecasting model using LSTM, CNN, and GRU to predict Bitcoin prices.
+### 💸 Bitcoin Price Prediction 
+[![Repo](https://img.shields.io/badge/View%20Repo-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/ammarelbordeny/Bit-Coin-Price-Prediction)  
+📈 Time-series model using LSTM, CNN, and GRU to predict Bitcoin prices.
 
 ---
 
-### 🏠 House Price Prediction  
-[![Repo](https://img.shields.io/badge/View%20Repo-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/ammar876ahmed/house-price-prediction)  
-📊 Regression model to estimate housing prices based on area, location, and other features.
+### 🏠 House Rent Prediction  
+[![Repo](https://img.shields.io/badge/View%20Repo-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/ammarelbordeny/House-Rent-Prediction)  
+📊 Regression model to estimate housing Rent based on area, location, and other features.
 
 ---
 
